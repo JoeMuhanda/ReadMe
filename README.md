@@ -1,3 +1,0 @@
-# ReadMe
-About Me
-jhgfdsdfgjhkl
