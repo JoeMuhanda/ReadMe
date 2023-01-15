@@ -40,7 +40,3 @@ def register():
     if user.username == username:
       return "Error: Username is already taken"
   
-  # Add new user to the database
-  add_user(username, password)
-  # Return success message
-  return "Registration successful"
